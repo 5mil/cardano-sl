@@ -2080,7 +2080,6 @@ self: {
             hashable
             lens
             log-warper
-            memory
             mtl
             network-transport
             network-transport-tcp
@@ -7948,4 +7947,3 @@ compiler.override {
   initialPackages = stackPackages;
   configurationCommon = { ... }: self: super: {};
 }
-
