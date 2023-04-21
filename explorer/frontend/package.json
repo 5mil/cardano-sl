@@ -31,7 +31,7 @@
   "dependencies": {
     "animate.css": "^3.5.2",
     "babel-polyfill": "^6.26.0",
-    "bignumber.js": "^4.0.2",
+    "bignumber.js": "^4.1.0",
     "js-polyfills": "^0.1.34",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
