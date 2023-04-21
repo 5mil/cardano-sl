@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/input-output-hk/cardano-sl-explorer-frontend#readme",
   "dependencies": {
-    "animate.css": "^3.5.2",
+    "animate.css": "^3.7.2",
     "babel-polyfill": "^6.26.0",
     "bignumber.js": "^4.0.2",
     "js-polyfills": "^0.1.34",
